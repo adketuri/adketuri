@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm Andrew, a Software Engineer based in the SF Bay Area. I'm currently employed as a fullstack engineer at a healthtech startup. In my spare time, I make games, collect music, and play rhythm games.
+I'm Andrew, a software engineer based in the SF Bay Area. I'm currently employed as a fullstack engineer at a healthtech startup. In my spare time, I make games, collect music, and play rhythm games.
 
 ### Projects
 * [Heroes of Umbra](https://store.steampowered.com/app/645380/Heroes_of_Umbra/) - A side-scrolling platformer RPG with networked multiplayer. Built an engine with libgdx and developed it from 2012-2018, with occasional updates and help from the community.
